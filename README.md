@@ -2,9 +2,9 @@
 
 
 - 👯 I’ve been coding for 2 years
-- 🌱 I’m currently learning Vue and Laravel at the moment
-- 🔭 I’m working on landing my first dev job
+- 🌱 I’m currently learning Vue and React at the moment
+- 🔭 I’m also currently on the lookout for a role in front end development, ideally writing JavaScript. If hiring, let's chat!
 - 💬 Ask me about single page applications
-- 📫 You can follow me on Instagram at anthony._njenga
+
 
   
